@@ -13,10 +13,6 @@ class Singleton {
 
     return Singleton.instance;
   }
-
-  public someBusinessLogic() {
-    // ...
-  }
 }
 
 function clientCode() {
